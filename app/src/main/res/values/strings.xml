@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="white">White</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="lig">LTGRAY</string>
+    <string name="green">GREEN</string>
+    <string name="na">NavajoWhite</string>
+    <string name="greenyellow">GreenYellow</string>
+</resources>
